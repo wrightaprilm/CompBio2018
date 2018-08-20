@@ -17,7 +17,9 @@ Course Schedule
 +------------+----------------------------------------+-----------+
 | Week       | Topic                                  | Due       |
 +------------+----------------------------------------+-----------+
-| Aug. 20:   | 	Introduction to Python and JupyterHub |	None      |
+| Aug. 16    |  `Welcome <http://goo.gl/uCKPQE>`_     | Nothing   |
++------------+----------------------------------------+-----------+
+| Aug. 20:   | `Python <https://goo.gl/EXG4DB>`_      |	None      |
 +------------+----------------------------------------+-----------+ 
 | Aug. 27:   | 	Working with Data in Python I         |	TBA       |
 +------------+----------------------------------------+-----------+ 
@@ -48,9 +50,10 @@ Course Schedule
 | Nov 25:    |	Final project workweek                |	TBA       |
 +------------+----------------------------------------+-----------+ 
 
-Indices and tables
-==================
+Supplemental Resources
+======================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+ - `Slack: <https://join.slack.com/t/selucompbio2018/shared_invite/enQtNDE5MzgyNDgzODMwLWZjNDBmMDNjZmM3OGU0Yzk1MDJjMDIyNDY5ZTkwOTZkOWViNzRlNzJiMGEwYmYwMWYwNjQ3Njk5ZTFjYTk3ZTc>`_ a chat channel for the course 
+ - `Data Carpentry: <https://datacarpentry.org/lessons/>`_ introduction to computational data management 
+ - `Software Carpentry: <https://software-carpentry.org/lessons/>`_ Good coding practices 
+ - `Code Academy: <https://www.codecademy.com/>`_ Interactive programming activities 
