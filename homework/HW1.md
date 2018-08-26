@@ -29,9 +29,7 @@ surveys_df[(surveys_df.year >= 1980) & (surveys_df.year <= 1985)]
 
 How could you modify the above command select only a subset of columns?
 
-3.
-
-Which type of join will return the smallest subset of data, and why?
+3. Which type of join will return the smallest subset of data, and why?
 
 4. How could you modify the `yearly_data_csv_writer()` function from Aug 28 class to write out
 only one year of data? Which function, `yearly_data_csv_writer()` or `one_year_csv_writer` would we have
