@@ -51,6 +51,6 @@ species_id,genus-species,taxa
 "UP","Pipilo" "sp.","Bird"
 "UR","Rodent" "sp.","Rodent"
 "US","Sparrow" "sp.","Bird"
-"XX",,,"Zero Trapping Success"
+"XX",,"Zero Trapping Success"
 "ZL" "Zonotrichia","leucophrys","Bird"
 "ZM" "Zenaida","macroura","Bird"
