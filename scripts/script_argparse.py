@@ -32,7 +32,7 @@ def out_check(test_dir):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument("--input", help="Path to input data in CSV format")
-    parser.add_argument("--output", help="Path to where you want to write output.")
+    parser.add_argument("--output", help="Path to where you want to write output, ending in output prefix.")
     parser.add_argument("--year", help="What year do you want data for?")
     
     args = parser.parse_args()
